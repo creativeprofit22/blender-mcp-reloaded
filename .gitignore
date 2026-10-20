@@ -22,3 +22,6 @@ htmlcov/
 # BlenderBench data, model evidence, and publication artifacts stay external.
 /blenderbench-data/
 /blenderbench-results/
+
+# Local agent tool settings.
+/.gg/
